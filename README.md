@@ -1,16 +1,16 @@
-## Hi there 👋
+# BandRef
 
-<!--
-**BandRef/BandRef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BandRef (MBRT)** is a MATLAB App Designer tool for multi-band semiclassical
+Boltzmann transport modeling and refinement of thermoelectric material
+properties.
 
-Here are some ideas to get you started:
+## Download
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Get the latest Windows installer from the [Releases page](https://github.com/BandRef/BandRef/releases/latest).
+
+## Requirements
+
+Requires **MATLAB Runtime R2026a** (free, no MATLAB license needed). The
+installer will prompt you to download it if it isn't already on your system,
+or you can get it directly from
+[MathWorks](https://www.mathworks.com/products/compiler/mcr/index.html).
